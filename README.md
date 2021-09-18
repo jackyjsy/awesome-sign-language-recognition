@@ -7,7 +7,7 @@ A collection of resources about Sign Language Recognition (SLR) and Translation 
 This is a collection of papers and resources I curated when learning the ropes in Sign Language Recognition and Translation. It is under construction and I will update it continuously. Feel free to contribute.
 
 ## Contributing
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/jackyjsy/awesome-sign-language-estimation/pulls).
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/jackyjsy/awesome-sign-language-recognition/pulls).
 
 Feedback and contributions are welcome!
 
