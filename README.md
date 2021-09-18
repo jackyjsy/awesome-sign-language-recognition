@@ -32,12 +32,22 @@ Feedback and contributions are welcome!
 https://en.wikipedia.org/wiki/Sign_language    
 https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd
 ## Datasets
-- [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/description/)
-- [SLR500 Chinese Sign Language Dataset](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
+- [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/description/) [[paper]](https://arxiv.org/abs/2008.00932)
+- [SLR500 / SLR100](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
 - [WLASL](https://dxli94.github.io/WLASL/) [[paper]](https://arxiv.org/abs/1910.11006)
 - [MS-ASL](https://www.microsoft.com/en-us/research/project/ms-asl/)
-- [BSL-1K](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/)
+- [BSL-1K](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [[paper]](https://arxiv.org/abs/2007.12131)
 
+| Dataset  | Sign Language | # Classes | # Signers | # Samples | Type | Modalities | Year | Available * |
+| ------------- | :-----------: | -: | -: | -: | :-: | :-: | :-: | :-: | 
+| SLR500 isol.  | Chinese   | 500 | 50 | 125,000 | Isolated | RGB+D | 2016 | Yes |
+| AUTSL   | Turkish   | 226 | 43 | 38,336 | Isolated | RGB+D | 2020 | Yes |
+| WLASL   | American  | 2,000 | 119 | 21,083 | Isolated | RGB | 2020 | Yes |
+| MS-ASL  | American  | 1,000 | 222 | 25,513 | Isolated | RGB | 2019 | No |
+| BSL-1K  | British   | 1,064| 40 | 273,000 | Isolated | RGB | 2021 | No |
+| SLR100 cont.     | Chinese   | 100 | 50 | 25,000 | Continuous | RGB+D | 2016 | Yes |
+
+\* Availability at the moment.
 
 ## Papers
 
