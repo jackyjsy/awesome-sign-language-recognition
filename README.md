@@ -48,7 +48,7 @@ Feedback and contributions are welcome!
 | MS-ASL  | American  | 1,000 | 222 | 25,513 | Isolated | RGB | 2019 | No |
 | BSL-1K  | British   | 1,064| 40 | 273,000 | Isolated | RGB | 2021 | No |
 | SLR100  | Chinese   | 100 | 50 | 25,000 | Continuous | RGB+D | 2016 | Yes |
-| How2Sign  | American   | \*\* | 11 | 2,529 | Continuous | RGB+D | 2021 | Yes |
+| How2Sign  | American   | \*\* | 11 | 35,000 | Continuous | RGB+D | 2021 | Yes |
 
 \* Public availability at the moment.   
 \*\* Vocabulary size 16k.
