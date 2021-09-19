@@ -29,8 +29,9 @@ Feedback and contributions are welcome!
 <!-- - [Blog posts](#blogposts) -->
 
 ## Basics
-https://en.wikipedia.org/wiki/Sign_language    
-https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd
+[WIKI: Sign Language](https://en.wikipedia.org/wiki/Sign_language)    
+[Awesome Sign Language Resources](https://github.com/surdoparasurdo/awesome-sign-language)   
+[Basic Sign Language Recognition](https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd)
 ## Datasets
 - [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/description/) [[paper]](https://arxiv.org/abs/2008.00932)
 - [SLR500 / SLR100](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
@@ -47,7 +48,7 @@ https://towardsdatascience.com/sign-language-recognition-using-deep-learning-654
 | BSL-1K  | British   | 1,064| 40 | 273,000 | Isolated | RGB | 2021 | No |
 | SLR100  | Chinese   | 100 | 50 | 25,000 | Continuous | RGB+D | 2016 | Yes |
 
-\* Availability at the moment.
+\* Public availability at the moment.
 
 ## Papers
 
