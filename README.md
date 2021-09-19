@@ -53,6 +53,8 @@ Feedback and contributions are welcome!
 \* Public availability at the moment.   
 \*\* Vocabulary size 16k.
 
+A more complete list of dataset can be found at https://how2sign.github.io/related_datasets.html
+
 ## Papers
 
 ### Isolated sign language recognition
