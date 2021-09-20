@@ -29,9 +29,11 @@ Feedback and contributions are welcome!
 <!-- - [Blog posts](#blogposts) -->
 
 ## Basics
-[WIKI: Sign Language](https://en.wikipedia.org/wiki/Sign_language)    
-[Awesome Sign Language Resources](https://github.com/surdoparasurdo/awesome-sign-language)   
-[Basic Sign Language Recognition](https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd)
+- [WIKI: Sign Language](https://en.wikipedia.org/wiki/Sign_language)    
+- [Awesome Sign Language Resources](https://github.com/surdoparasurdo/awesome-sign-language)   
+- [Basic Sign Language Recognition](https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd)   
+- [Sign Language Recognition, Generation, and Translation:
+An Interdisciplinary Perspective](https://arxiv.org/abs/1908.08597)
 ## Datasets
 - [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/description/) [[paper]](https://arxiv.org/abs/2008.00932)
 - [SLR500 / SLR100](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
