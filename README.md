@@ -13,7 +13,7 @@ Feedback and contributions are welcome!
 
 ## Table of Contents
 - [Basics](#basics)
-- [Datasets](#datasets)
+- [Datasets](#popular-datasets)
 - [Papers](#papers)
   - [Isolated sign language recognition](#isolated-sign-language-recognition)
   - [Continuous sign language recognition](#Continous-sign-language-recognition)
@@ -34,13 +34,14 @@ Feedback and contributions are welcome!
 - [Basic Sign Language Recognition](https://towardsdatascience.com/sign-language-recognition-using-deep-learning-6549268c60bd)   
 - [Sign Language Recognition, Generation, and Translation:
 An Interdisciplinary Perspective](https://arxiv.org/abs/1908.08597)
-## Datasets
+## Popular Datasets
 - [AUTSL](https://chalearnlap.cvc.uab.cat/dataset/40/description/) [[paper]](https://arxiv.org/abs/2008.00932)
-- [SLR500 / SLR100](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
+- [ICSL(SLR500) / CCSL(SLR100)](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)
 - [WLASL](https://dxli94.github.io/WLASL/) [[paper]](https://arxiv.org/abs/1910.11006)
 - [MS-ASL](https://www.microsoft.com/en-us/research/project/ms-asl/)
 - [BSL-1K](https://www.robots.ox.ac.uk/~vgg/research/bsl1k/) [[paper]](https://arxiv.org/abs/2007.12131)
-- [How2Sign](https://how2sign.github.io/) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.html)
+- [How2Sign](https://how2sign.github.io/) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Duarte_How2Sign_A_Large-Scale_Multimodal_Dataset_for_Continuous_American_Sign_Language_CVPR_2021_paper.html)   
+- [CSL-Daily](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/) [[paper]](https://arxiv.org/abs/2105.12397)
 
 | Dataset  | Sign Language | Classes | Signers | Videos | Type | Modalities | Year | Avail. * |
 | ------------- | :-----------: | -: | -: | -: | :-: | :-: | :-: | :-: | 
@@ -51,11 +52,13 @@ An Interdisciplinary Perspective](https://arxiv.org/abs/1908.08597)
 | BSL-1K  | British   | 1,064| 40 | 273,000 | Isolated | RGB | 2021 | No |
 | SLR100  | Chinese   | 100 | 50 | 25,000 | Continuous | RGB+D | 2016 | Yes |
 | How2Sign  | American   | \*\* | 11 | 35,000 | Continuous | RGB+D | 2021 | Yes |
+| PHOENIX-2014T | German | 1,066 | 9 | 8,257 | Translation | RGB | 2014 |
+| CSL-Daily | Chinese | 2000 | 10 | 20,654 | Translaion | RGB | 2021 |
 
 \* Public availability at the moment.   
 \*\* Vocabulary size 16k.
 
-A more complete list of dataset can be found at https://how2sign.github.io/related_datasets.html
+Above is a brief summary of popular sign language dataset. A more complete list of dataset can be found at https://how2sign.github.io/related_datasets.html
 
 ## Papers
 
