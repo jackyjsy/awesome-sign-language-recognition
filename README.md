@@ -75,7 +75,9 @@ Above is a brief summary of popular sign language dataset. A more complete list 
   *Samuel Albanie, Gül Varol, Liliane Momeni, Triantafyllos Afouras, Joon Son Chung, Neil Fox, Andrew Zisserman*
 ### Continuous sign language recognition
 - [2021 ICCV] Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)[[code]](https://github.com/ycmin95/VAC_CSLR)   
-  *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*   
+  *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*  
+- [2021 TMM] Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)   
+  *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
 <!-- - [ICCV 2021] Self-Mutual Distillation Learning for Continuous Sign Language Recognition.
   *Aiming Hao, Yuecong Min, and Xilin Chen* -->
 
@@ -84,6 +86,8 @@ Above is a brief summary of popular sign language dataset. A more complete list 
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - [2020 AAAI] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://arxiv.org/abs/2002.03187)   
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
+- [2020 NeurIPS] TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://arxiv.org/pdf/2010.05468v1.pdf)[[code]](https://github.com/verashira/TSPNet)   
+  *Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Ben Swift, Hanna Suominen, Hongdong Li*
 - [2018 CVPR] Neural Sign Language Translation [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf)[[code]](https://github.com/neccam/nslt)   
   *Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden*
 ## Benchmarks
