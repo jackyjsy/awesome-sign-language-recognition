@@ -52,7 +52,7 @@ An Interdisciplinary Perspective](https://arxiv.org/abs/1908.08597)
 | BSL-1K  | British   | 1,064| 40 | 273,000 | Isolated | RGB | 2021 | No |
 | SLR100  | Chinese   | 100 | 50 | 25,000 | Continuous | RGB+D | 2016 | Yes |
 | How2Sign  | American   | \*\* | 11 | 35,000 | Continuous | RGB+D | 2021 | Yes |
-| PHOENIX-2014T | German | 1,066 | 9 | 8,257 | Translation | RGB | 2014 |
+| PHOENIX-2014T | German | 1,066 | 9 | 8,257 | Translation | RGB | 2014 | Yes |
 | CSL-Daily | Chinese | 2000 | 10 | 20,654 | Translaion | RGB | 2021 |
 
 \* Public availability at the moment.   
@@ -90,7 +90,7 @@ Above is a brief summary of popular sign language dataset. A more complete list 
 [Paper with code](https://paperswithcode.com/task/sign-language-recognition)
 
 ## Challenges
-[CVPR 2021 Looking at People Large Scale Signer Independent Isolated SLR Challenge](https://chalearnlap.cvc.uab.cat/challenge/43/description/)[[RGB](https://competitions.codalab.org/competitions/27901)][[RGB+D](https://competitions.codalab.org/competitions/27902)]
+[CVPR 2021 Looking at People Large Scale Signer Independent Isolated SLR Challenge](https://chalearnlap.cvc.uab.cat/challenge/43/description/) [[RGB]](https://competitions.codalab.org/competitions/27901)[[RGB+D]](https://competitions.codalab.org/competitions/27902)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/ChaLearn/papers/Sincan_ChaLearn_LAP_Large_Scale_Signer_Independent_Isolated_Sign_Language_Recognition_CVPRW_2021_paper.pdf)
 
 ## Workshops
 [CVPR 2021 ChaLearn Looking at People Sign Language Recognition in the Wild Workshop](https://chalearnlap.cvc.uab.cat/workshop/42/description/)
