@@ -71,7 +71,7 @@ A more complete list of dataset can be found at https://how2sign.github.io/relat
 - [2020 ECCV] BSL-1K: Scaling Up Co-articulated Sign Language Recognition Using Mouthing Cues.[[paper]](https://arxiv.org/abs/2007.12131)[[code]](https://github.com/gulvarol/bsl1k)   
   *Samuel Albanie, Gül Varol, Liliane Momeni, Triantafyllos Afouras, Joon Son Chung, Neil Fox, Andrew Zisserman*
 ### Continuous sign language recognition
-- [ICCV 2021] Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)[[code]](https://github.com/ycmin95/VAC_CSLR)   
+- [2021 ICCV] Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)[[code]](https://github.com/ycmin95/VAC_CSLR)   
   *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*   
 <!-- - [ICCV 2021] Self-Mutual Distillation Learning for Continuous Sign Language Recognition.
   *Aiming Hao, Yuecong Min, and Xilin Chen* -->
@@ -81,7 +81,8 @@ A more complete list of dataset can be found at https://how2sign.github.io/relat
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - [2020 AAAI] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://arxiv.org/abs/2002.03187)   
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
-
+- [2018 CVPR] Neural Sign Language Translation [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf)[[code]](https://github.com/neccam/nslt)   
+  *Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden*
 ## Benchmarks
 [Paper with code](https://paperswithcode.com/task/sign-language-recognition)
 
