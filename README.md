@@ -76,15 +76,19 @@ Above is a brief summary of popular sign language dataset. A more complete list 
 ### Continuous sign language recognition
 - [2021 ICCV] Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)[[code]](https://github.com/ycmin95/VAC_CSLR)   
   *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*  
-- [2021 TMM] Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)   
+- [2020 AAAI] Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/abs/2002.03187)   
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
+- [2019 CVPR] Iterative Alignment Network for Continuous Sign Language Recognition. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf)   
+  *Junfu Pu Wengang Zhou Houqiang Li*
+- [2018 AAAI] Video-based Sign Language Recognition without Temporal Segmentation.[[paper]](https://arxiv.org/abs/1801.10111)   
+  *Jie Huang, Wengang Zhou, Qilin Zhang, Houqiang Li, Weiping Li*
 <!-- - [ICCV 2021] Self-Mutual Distillation Learning for Continuous Sign Language Recognition.
   *Aiming Hao, Yuecong Min, and Xilin Chen* -->
 
 ### Sign language translation
 - [2021 CVPR] Improving Sign Language Translation With Monolingual Data by Sign Back-Translation. [[paper]](https://arxiv.org/abs/2105.12397)   
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
-- [2020 AAAI] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://arxiv.org/abs/2002.03187)   
+- [2021 TMM] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)   
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
 - [2020 NeurIPS] TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://arxiv.org/pdf/2010.05468v1.pdf)[[code]](https://github.com/verashira/TSPNet)   
   *Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Ben Swift, Hanna Suominen, Hongdong Li*
