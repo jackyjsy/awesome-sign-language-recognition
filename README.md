@@ -78,6 +78,10 @@ Above is a brief summary of popular sign language dataset. A more complete list 
 ### Continuous sign language recognition
 - [2021 ICCV] Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)[[code]](https://github.com/ycmin95/VAC_CSLR)   
   *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*  
+- [2020 ECCV] Fully Convolutional Networks for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2007.12402)  
+  *Ka Leong Cheng, Zhaoyang Yang, Qifeng Chen, and Yu-
+Wing Tai*
+
 - [2020 AAAI] Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/abs/2002.03187)   
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
 - [2019 CVPR] Iterative Alignment Network for Continuous Sign Language Recognition. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf)   
