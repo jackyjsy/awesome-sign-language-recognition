@@ -92,6 +92,8 @@ Wing Tai*
   *Aiming Hao, Yuecong Min, and Xilin Chen* -->
 
 ### Sign language translation
+- [2021 ACMMM] Skeleton-Aware Neural Sign Language Translation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475577)[[code]](https://github.com/SignLanguageCode/SANet)  
+  *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu*  
 - [2021 CVPR] Improving Sign Language Translation With Monolingual Data by Sign Back-Translation. [[paper]](https://arxiv.org/abs/2105.12397)   
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - [2021 TMM] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)   
